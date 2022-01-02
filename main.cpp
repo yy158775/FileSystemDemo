@@ -1,37 +1,15 @@
 #include <iostream>
 #include <stat.h>
+// #include <types.h>
+// #include <sys/types.h>
+#include <linux/types.h>
+#include <linux/string.h>
+// #include <asm/atomic.h>
+// #include <stdatomic.h>
+
 using namespace std;
 
 
 int main() {
 
-}
-
-
-int mkdir(const char *pathname,mode_t mode) {
-
-}
-
-int touch(const char *filename) {
-    
-}
-
-int rmfile(const char *filename) {
-
-}
-
-int rmdir(const char *pathname) {
-
-}
-
-int ls(const char* pathname) {
-
-}
-
-int cd(const char* pathname) {
-
-}
-
-int pwd() {
-    
 }
